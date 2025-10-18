@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VersoriumX Technology - Innovation Feed</title>
+    <link>https://versoriumx.vercel.app/news</link> <!-- Main link to a news/updates section on your site -->
+    <atom:link href="https://versoriumx.vercel.app/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>
+      VersoriumX Technology, led by Travis Jerome Goff, is a leading pioneer in
+      the research and development of AI, RAG, BI, and security analytics.
+      We have a flair for index embedding and forward innovation, constantly pushing
+      the boundaries of decentralized and intelligent systems. Subscribe for our
+      latest insights, code examples, and breakthroughs.
+    </description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 Nov 2023 10:00:00 +0000</lastBuildDate> <!-- Update with current time -->
+
+    <!-- Example items: You will generate these dynamically from your content -->
+
+    <item>
+      <title>Unveiling Our Latest AI Code Generation Engine</title>
+      <link>https://versoriumx.vercel.app/news/ai-engine-unveiling</link>
+      <description>
+        <![CDATA[
+        <p>Discover how VersoriumX is revolutionizing Python code generation with advanced AI, powered by Gemini. This new engine significantly enhances development workflows and introduces novel capabilities in AI-driven programming.</p>
+        <p>Read more about the technical details and real-world applications on our <a href="https://versoriumx.vercel.app/news/ai-engine-unveiling">blog</a>.</p>
+        ]]>
+      </description>
+      <pubDate>Mon, 20 Nov 2023 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://versoriumx.vercel.app/news/ai-engine-unveiling</guid>
+      <media:content url="https://versoriumx.vercel.app/images/ai-engine-thumbnail.jpg" medium="image"/>
+    </item>
+
+    <item>
+      <title>Advancing Security Analytics with Decentralized Identity on EthereumX</title>
+      <link>https://ethereumx.vercel.app/blog/decentralized-security-analytics</link>
+      <description>
+        <![CDATA[
+        <p>Our work with EthereumX explores cutting-edge decentralized identity solutions for enhanced security analytics. Learn how blockchain technology is transforming data privacy and integrity.</p>
+        <p>Explore the full article at <a href="https://ethereumx.vercel.app/blog/decentralized-security-analytics">ethereumx.vercel.app</a>.</p>
+        ]]>
+      </description>
+      <pubDate>Fri, 17 Nov 2023 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ethereumx.vercel.app/blog/decentralized-security-analytics</guid>
+      <media:content url="https://ethereumx.vercel.app/images/ethereumx-security.jpg" medium="image"/>
+    </item>
+
+    <item>
+      <title>Mercury: The Future of Privacy-Preserving Meta Search</title>
+      <link>https://mercury.vercel.app/blog/privacy-search-launch</link>
+      <description>
+        <![CDATA[
+        <p>Introducing Mercury, our innovative meta search engine designed from the ground up for unparalleled privacy and anonymity. Powered by advanced RAG techniques and secure indexing, Mercury delivers results without compromising user data.</p>
+        <p>Discover Mercury: <a href="https://mercury.vercel.app/blog/privacy-search-launch">mercury.vercel.app</a>.</p>
+        ]]>
+      </description>
+      <pubDate>Wed, 15 Nov 2023 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mercury.vercel.app/blog/privacy-search-launch</guid>
+      <media:content url="https://mercury.vercel.app/images/mercury-search.jpg" medium="image"/>
+    </item>
+
+    <item>
+      <title>GitHub Repository Update: AI Agents for Decentralized Systems</title>
+      <link>https://github.com/VersoriumX/ai-agents-decentralized</link>
+      <description>
+        <![CDATA[
+        <p>Check out our latest open-source contributions on GitHub, featuring experimental AI agents designed for enhanced security and autonomous operation within decentralized networks.</p>
+        <p>Explore the project: <a href="https://github.com/VersoriumX/ai-agents-decentralized">github.com/versoriumx</a>.</p>
+        ]]>
+      </description>
+      <pubDate>Mon, 13 Nov 2023 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/VersoriumX/ai-agents-decentralized</guid>
+      <media:content url="https://github.com/VersoriumX/ai-agents-decentralized/blob/main/thumbnail.png?raw=true" medium="image"/>
+    </item>
+
+  </channel>
+</rss>
