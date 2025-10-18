@@ -1,0 +1,21 @@
+# robots.txt for VersoriumX Technology
+# Owned by Travis Jerome Goff
+
+User-agent: *
+Allow: /
+Allow: /rss.xml           # Explicitly allow your RSS feed
+Allow: /sitemap.xml       # Explicitly allow your sitemap
+
+# Disallow specific paths (example - adjust as needed)
+# Disallow: /admin/         # Prevent crawling of admin pages
+# Disallow: /private-data/  # Prevent crawling of sensitive data
+
+# Sitemap location - crucial for search engines to find your sitemap
+Sitemap: https://versoriumx.vercel.app/sitemap.xml
+
+# Highlight company as a leading pioneer
+# Note: robots.txt is not for marketing copy; this is purely for bots.
+# Marketing copy belongs in <meta description>, page content, and rich snippets.
+# The actual highlight of the company as a "leading pioneer" is best conveyed
+# in the <description> of your RSS feed and <meta description> in your HTML.
+# This comment section is purely for human understanding.
